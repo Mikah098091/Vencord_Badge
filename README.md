@@ -1,1 +1,3 @@
-# Vencord_Badge
+# Vencord Badge
+
+idk vencord badges?
